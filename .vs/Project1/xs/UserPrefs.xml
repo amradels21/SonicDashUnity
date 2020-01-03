@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{75AC4C40-F16B-156B-5A80-9157E3301C82}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerMove.cs">
+    <Files>
+      <File FileName="Assets/PlayerMove.cs" Line="231" Column="1" />
+      <File FileName="Assets/CameraFollow.cs" Line="40" Column="1" />
+      <File FileName="Assets/StartGame.cs" Line="78" Column="31" />
+      <File FileName="Assets/Scripts/SoundManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="PlayerMove.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c9b7140a-f45f-40bf-a03a-0120b0c2694e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
